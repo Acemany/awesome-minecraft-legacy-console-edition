@@ -1,7 +1,7 @@
 # Minecraft LCE _forks_
 
 ## [4jcraft](https://github.com/4jcraft/4jcraft)
-![](./.github-assets/4jcraft.png)
+[![](./.github-assets/4jcraft.png)](https://github.com/4jcraft/4jcraft)
 
 Scope of this project is to clean up, modernize, restructure and fix Minecraft LCE code
 
@@ -10,6 +10,9 @@ Restructuring is being done for maintainability and portability - this project a
 - Emscripten
 - Android
 - MacOSX
+
+## [Yuricraft](https://github.com/Acemany/4jcraft)
+Yuri-focused fork of 4jcraft. While 4jcraft is already woke, it does not have yuri in it, therefore the fork
 
 ## [MinecraftConsoles](https://github.com/smartcmd/MinecraftConsoles)
 This project aims to Polish windows support, fix bugs and implement some features(such as multiplayer)
