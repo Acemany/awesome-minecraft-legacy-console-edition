@@ -19,9 +19,6 @@ This project aims to Polish windows support, fix bugs and implement some feature
 
 It does not do any crazy refactors and supports Windows only
 
-## [LegacyEvolved](https://github.com/piebotc/LegacyEvolved)
-MinecraftConsoles with TU25 and TU31 block and iteb backports
-
 ## [LCEMP](https://github.com/LCEMP/LCEMP)
 This is LCE with minor fixes and multiplayer
 
