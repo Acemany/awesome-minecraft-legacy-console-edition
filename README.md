@@ -19,6 +19,9 @@ This project aims to Polish windows support, fix bugs and implement some feature
 
 It does not do any crazy refactors and supports Windows only
 
+## [LegacyEvolved](https://github.com/piebotc/LegacyEvolved)
+MinecraftConsoles with TU25 and TU31 block and iteb backports
+
 ## [LCEMP](https://github.com/LCEMP/LCEMP)
 This is LCE with minor fixes and multiplayer
 
@@ -42,6 +45,9 @@ Goals:
 - [x] String ID system for items and blocks
 - More...
 
+## [OpenLCE](https://openlce.org/)
+This loader aims at supporting all platforms from leak and even more
+
 ## [Axo ModLoader](https://github.com/KaDerox/Axo-McLCE-ModLoader)
 A mod loader
 
@@ -54,5 +60,20 @@ Mods are `.dll`s written with FaucetSDK
 
 Likely is slop; Supports MSVC+windows only
 
+
+# Tools
+- [Java-to-MLCE-Texture-Pack-Converter](https://github.com/ASAOddball1/Java-to-MLCE-Texture-Pack-Converter/blob/main/MLCE%20Converter.py) - slop
+
+
+# Launchers
+
+## [LCE-Qt-Launcher](https://github.com/xgui4/LCE-Qt-Launcher)
+This is a free/libre MC LCE Launcher written in python and Qt with Freedom and GNU/Linux support in mind
+
+
+Other launchers:
+- [Legacy Console Launcher](https://github.com/OxyZin/LegacyConsoleLauncher) - C# + WinForms
+- [Emerald Legacy Launcher](https://github.com/Emerald-Legacy-Launcher/Emerald-Legacy-Launcher) - sloppy, even though it is interesting
+- [Flint](https://github.com/synomal/Flint) - smells like AI spirit
 
 # Feel free to correct errors/typos!
