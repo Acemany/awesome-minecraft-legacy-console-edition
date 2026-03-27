@@ -1,3 +1,22 @@
+# Table
+
+| Project name                        | State  | Language     | Sloppiness      |
+|-------------------------------------|--------|--------------|-----------------|
+| 4jcraft                             | active | Meson/C++    | no-ai policy    |
+| MinecraftConsoles                   | active | CMake/C++    | no-ai policy    |
+| LCEMP                               | stale  | C++          | ?               |
+| LegacyEvolved                       | Active | Cmake/C++    | no-ai policy    |
+| OpenLCE                             | active | CMake/C++    | ?               |
+| Cactus-ModLoader                    | active | Meson/C++    | no-ai policy    |
+| Axo ModLoader                       | stale  | Python, C++  | ai was used     |
+| Faucet                              | stale  | CMake/C++    | written with ai |
+| Java-to-MLCE-Texture-Pack-Converter | stale  | Python       | written by ai   |
+| LCE-Qt-Launcher                     | active | Python, QT   | ?               |
+| Legacy Console Launcher             | stale  | C#, WinForms | ?               |
+| Emerald Legacy Launcher             | active | TS, Rust     | ?               |
+| Flint                               | stale  | Zig          | looks generated |
+
+
 # Minecraft LCE _forks_
 
 ## [4jcraft](https://github.com/4jcraft/4jcraft)
@@ -6,13 +25,15 @@
 Scope of this project is to clean up, modernize, restructure and fix Minecraft LCE code
 
 Restructuring is being done for maintainability and portability - this project aims to support a lot of platforms, including:
-- Linux(the main one)
+- Linux(main platform)
 - Emscripten
 - Android
 - MacOSX
 
 ## [Yuricraft](https://github.com/Acemany/4jcraft)
 Yuri-focused fork of 4jcraft. While 4jcraft is already woke, it does not have yuri in it, therefore the fork
+
+Basically a reskin of 4jcraft, everything besides visuals is the same
 
 ## [MinecraftConsoles](https://github.com/smartcmd/MinecraftConsoles)
 This project aims to Polish windows support, fix bugs and implement some features(such as multiplayer)
@@ -23,6 +44,12 @@ It does not do any crazy refactors and supports Windows only
 This is LCE with minor fixes and multiplayer
 
 That repo does not contain the full source code and it does not contain assets
+
+## [LegacyEvolved](https://github.com/piebotc/LegacyEvolved)
+MinecraftConsoles with TU25 and TU31 block and item backports
+
+## [OpenLCE](https://openlce.org/)
+This fork aims at supporting mods and all platforms from leak and even more
 
 
 # Modloaders, injectors, patchers, and whatever they are
@@ -41,9 +68,6 @@ Goals:
 - [ ] Port Cactus ModLoader to Minecraft Java Edition
 - [x] String ID system for items and blocks
 - More...
-
-## [OpenLCE](https://openlce.org/)
-This loader aims at supporting all platforms from leak and even more
 
 ## [Axo ModLoader](https://github.com/KaDerox/Axo-McLCE-ModLoader)
 A mod loader
