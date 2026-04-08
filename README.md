@@ -35,7 +35,7 @@ Yuri-focused fork of 4jcraft. While 4jcraft is already woke, it does not have yu
 
 Basically a reskin of 4jcraft, everything besides visuals is the same
 
-## [MinecraftConsoles](https://github.com/smartcmd/MinecraftConsoles)
+## [MinecraftConsoles](https://github.com/MCLCE/MinecraftConsoles)
 This project aims to Polish windows support, fix bugs and implement some features(such as multiplayer)
 
 It does not do any crazy refactors and supports Windows only
