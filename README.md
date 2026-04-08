@@ -45,7 +45,7 @@ This is LCE with minor fixes and multiplayer
 
 That repo does not contain the full source code and it does not contain assets
 
-## [LegacyEvolved](https://github.com/piebotc/LegacyEvolved)
+## [LegacyEvolved](https://codeberg.org/piebot/LegacyEvolved)
 MinecraftConsoles with TU25 and TU31 block and item backports
 
 ## [OpenLCE](https://openlce.org/)
