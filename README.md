@@ -5,10 +5,10 @@
 | 4jcraft                             | active | Meson/C++    | no-ai policy    |
 | MinecraftConsoles                   | active | CMake/C++    | no-ai policy    |
 | LCEMP                               | stale  | C++          | ?               |
-| LegacyEvolved                       | Active | Cmake/C++    | no-ai policy    |
-| OpenLCE                             | active | CMake/C++    | ?               |
-| Cactus-ModLoader                    | active | Meson/C++    | no-ai policy    |
-| Axo ModLoader                       | stale  | Python, C++  | ai was used     |
+| LegacyEvolved                       | active | Cmake/C++    | no-ai policy    |
+| OpenLCE                             | ?      | CMake/C++    | ?               |
+| Cactus-ModLoader                    | stale  | Meson/C++    | no-ai policy    |
+| Axo ModLoader                       | active | Python, C++  | ai was used     |
 | Faucet                              | stale  | CMake/C++    | written with ai |
 | Java-to-MLCE-Texture-Pack-Converter | stale  | Python       | written by ai   |
 | LCE-Qt-Launcher                     | active | Python, QT   | ?               |
@@ -50,6 +50,8 @@ MinecraftConsoles with TU25 and TU31 block and item backports
 
 ## [OpenLCE](https://openlce.org/)
 This fork aims at supporting mods and all platforms from leak and even more
+
+Git repo is not accessible?
 
 
 # Modloaders, injectors, patchers, and whatever they are
