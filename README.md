@@ -45,8 +45,10 @@ This is LCE with minor fixes and multiplayer
 
 That repo does not contain the full source code and it does not contain assets
 
-## [LegacyEvolved](https://codeberg.org/piebot/LegacyEvolved)
-MinecraftConsoles with TU25 and TU31 block and item backports
+## [neoLegacy](https://github.com/LCE-Hub/neoLegacy) (formerly LegacyEvolved)
+LegacyEvolved merged with LMRP(Legacy Minigames Revival Project)! Now it is called neoLegacy
+
+This project aims to backport the newer title updates back to the leaked Legacy Console Edition (which is based on TU19)
 
 ## [OpenLCE](https://openlce.org/)
 This fork aims at supporting mods and all platforms from leak and even more
