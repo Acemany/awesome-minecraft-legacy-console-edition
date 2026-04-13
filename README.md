@@ -97,7 +97,6 @@ This is a free/libre MC LCE Launcher written in python and Qt with Freedom and G
 
 
 Other launchers:
-- [Legacy Console Launcher](https://github.com/OxyZin/LegacyConsoleLauncher) - C# + WinForms
 - [Emerald Legacy Launcher](https://github.com/Emerald-Legacy-Launcher/Emerald-Legacy-Launcher) - sloppy, even though it is interesting
 - [Flint](https://github.com/synomal/Flint) - smells like AI spirit
 
