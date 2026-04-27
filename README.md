@@ -2,7 +2,7 @@
 
 | Project name                        | State  | Language     | Sloppiness      |
 |-------------------------------------|--------|--------------|-----------------|
-| 4jcraft                             | active | Meson/C++    | no-ai policy    |
+| portable-lce                        | active | Meson/C++    | no-ai policy    |
 | MinecraftConsoles                   | active | CMake/C++    | no-ai policy    |
 | LCEMP                               | stale  | C++          | ?               |
 | LegacyEvolved                       | active | Cmake/C++    | no-ai policy    |
@@ -19,8 +19,8 @@
 
 # Minecraft LCE _forks_
 
-## [4jcraft](https://github.com/4jcraft/4jcraft)
-[![](./.github-assets/4jcraft.png)](https://github.com/4jcraft/4jcraft)
+## [portable-lce](https://github.com/portable-lce/portable-lce)
+[![](./.github-assets/portable-lce.png)](https://github.com/portable-lce/portable-lce)
 
 Scope of this project is to clean up, modernize, restructure and fix Minecraft LCE code
 
@@ -29,11 +29,6 @@ Restructuring is being done for maintainability and portability - this project a
 - Emscripten
 - Android
 - MacOSX
-
-## [Yuricraft](https://github.com/Acemany/4jcraft)
-Yuri-focused fork of 4jcraft. While 4jcraft is already woke, it does not have yuri in it, therefore the fork
-
-Basically a reskin of 4jcraft, everything besides visuals is the same
 
 ## [MinecraftConsoles](https://github.com/MCLCE/MinecraftConsoles)
 This project aims to Polish windows support, fix bugs and implement some features(such as multiplayer)
